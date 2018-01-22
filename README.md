@@ -4,7 +4,7 @@
 [![version](https://img.shields.io/npm/v/emoji-js.svg)](https://www.npmjs.com/package/emoji-js)
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=social)](https://github.com/dionarya6661/emoji-js)
 
-Emoji JS merupakan libarary nodeJS yang bisa mengkonversi string biasa menjadi sebuah emoji
+Emoji JS merupakan library nodeJS yang bisa mengkonversi string biasa menjadi sebuah emoji
 `:smiley:` => :smiley:
 ## Install
 ```bash
