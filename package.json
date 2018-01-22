@@ -1,0 +1,23 @@
+{
+  "name": "emoji-js",
+  "version": "1.0.0",
+  "description": "module simple yang menampilkan emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dionarya6661/emoji-js.git"
+  },
+  "keywords": [
+    "emoji",
+    "emoticon"
+  ],
+  "author": "Dion Arya Pamungkas <dionarya.p@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dionarya6661/emoji-js/issues"
+  },
+  "homepage": "https://github.com/dionarya6661/emoji-js#readme"
+}
