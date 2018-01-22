@@ -4,11 +4,11 @@
 [![version](https://img.shields.io/npm/v/dap-emoji.svg)](https://www.npmjs.com/package/dap-emoji)
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=social)](https://github.com/dionarya6661/emoji-js)
 
-Emoji JS merupakan library nodeJS yang bisa mengkonversi string biasa menjadi sebuah emoji
+dap-emoji merupakan library nodeJS yang bisa mengkonversi string biasa menjadi sebuah emoji
 `:smiley:` => :smiley:
 ## Install
 ```bash
-npm install emoji-js --save
+npm install dap-emoji --save
 ```
 
 ## Cara Penggunaan
