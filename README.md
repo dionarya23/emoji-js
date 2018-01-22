@@ -1,7 +1,7 @@
 # Emoji JS
 > simple emoji `:octocat:` => :octocat:
 
-[![version](https://img.shields.io/npm/v/emoji-js.svg)](https://www.npmjs.com/package/emoji-js)
+[![version](https://img.shields.io/npm/v/dap-emoji.svg)](https://www.npmjs.com/package/dap-emoji)
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=social)](https://github.com/dionarya6661/emoji-js)
 
 Emoji JS merupakan library nodeJS yang bisa mengkonversi string biasa menjadi sebuah emoji
@@ -13,7 +13,7 @@ npm install emoji-js --save
 
 ## Cara Penggunaan
 ```javascript
-const emoji = require('emoji-js');
+const emoji = require('dap-emoji');
 
 var someText = "Hello World :smiley: :runner:";
 

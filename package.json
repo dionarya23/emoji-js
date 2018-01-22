@@ -1,5 +1,5 @@
 {
-  "name": "emoji-js",
+  "name": "dap-emoji",
   "version": "1.0.0",
   "description": "module simple yang menampilkan emoji",
   "main": "index.js",
